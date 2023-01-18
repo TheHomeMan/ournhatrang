@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.066e8ab2.css",
+    "main.js": "/static/js/main.e93f42b1.js",
+    "static/js/787.23170c61.chunk.js": "/static/js/787.23170c61.chunk.js",
+    "static/media/airport_2.jpg": "/static/media/airport_2.30677b1b76453b44a977.jpg",
+    "static/media/airport_4.jpg": "/static/media/airport_4.2cb720eef8018d73268b.jpg",
+    "static/media/airport_6.jpg": "/static/media/airport_6.43b602007f290e6264f2.jpg",
+    "static/media/airport_5.jpg": "/static/media/airport_5.1754f92028970b88cfc1.jpg",
+    "static/media/airport_0.jpg": "/static/media/airport_0.a9015f6b1714a0a77f69.jpg",
+    "static/media/airport_10.jpg": "/static/media/airport_10.89ee542cbff65b947229.jpg",
+    "static/media/airport_7.jpg": "/static/media/airport_7.77a24115950cb48a39f0.jpg",
+    "static/media/airport_1.jpg": "/static/media/airport_1.222de085e8a373847f4c.jpg",
+    "static/media/bg1.jpg": "/static/media/bg1.81f5e47fde0bcc3b7ce4.jpg",
+    "static/media/airport_8.jpg": "/static/media/airport_8.e0794a8f08bc9d2a7469.jpg",
+    "static/media/airport_9.jpg": "/static/media/airport_9.618e768349a3250e4813.jpg",
+    "static/media/airport_13.jpg": "/static/media/airport_13.220afebede862c975298.jpg",
+    "static/media/airport_12.jpg": "/static/media/airport_12.6a73f6b84fe369b82a84.jpg",
+    "static/media/main1.jpg": "/static/media/main1.05eb0b44d5ceb4fcb7a3.jpg",
+    "static/media/airport_3.jpg": "/static/media/airport_3.8d00a839b5dba3493ccb.jpg",
+    "static/media/airport_11.jpg": "/static/media/airport_11.9a69a1c4d7d351f27a8c.jpg",
+    "static/media/main2.jpg": "/static/media/main2.ec19748e7a766227234d.jpg",
+    "static/media/main3.jpg": "/static/media/main3.1311273e23f1f3984a45.jpg",
+    "index.html": "/index.html",
+    "main.066e8ab2.css.map": "/static/css/main.066e8ab2.css.map",
+    "main.e93f42b1.js.map": "/static/js/main.e93f42b1.js.map",
+    "787.23170c61.chunk.js.map": "/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.066e8ab2.css",
+    "static/js/main.e93f42b1.js"
+  ]
+}
